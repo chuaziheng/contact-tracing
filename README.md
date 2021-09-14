@@ -1,4 +1,4 @@
-# contact-tracing-database
+# contact-tracing
 
 Contact Tracing is a database coursework project that serves to record users' temperature and location data, as well as the scheduling of swab test slots for those who
 are in high risks. This project includes database design (ER Diagram and Database Normalisations) and implementation of queries using ``` SQL Server ``` . The database is populated using dummy data to preserve confidentiality.
